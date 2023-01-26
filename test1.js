@@ -21,4 +21,3 @@ function longestcmnSubstr(str1,str2){
 
 console.log(longestcmnSubstr("abcdef","abc"));
 
-console.log('hey');
