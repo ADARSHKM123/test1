@@ -10,7 +10,7 @@ function longestcmnSubstr(str1,str2){
                     longest = current
                 }
             }else{
-                j = -1;
+       
                 current = "";
             }
         }
